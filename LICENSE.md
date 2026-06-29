@@ -1,4 +1,4 @@
-# 
+# fish it updated Scripts offers the most advanced fish it Script, with silent aim and no clip. Perfect for dominating any match.
 
 
 
